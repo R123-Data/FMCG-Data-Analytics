@@ -7,8 +7,8 @@ Power BI - Main Data Visualization Platform used for report creation.
 Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
 DAX (Data Analysis Expressions) - Used for calcuated measures,dynamic visuals, and conditional logic.
 Data Modeling - Relationships established among tables to enable cross-filteringand aggregation.
-Interactive Visualizations 
-KPI Cards & Slicers 
+Interactive Visualizations - Built interactive visualizations including bar charts, line charts, treemaps, maps, and donut charts to analyze FMCG sales performance.
+KPI Cards & Slicers - KPI Cards to track key metrics such as Revenue, Profit, Quantity Sold, and Discounts.Implemented slicers for dynamic filtering by category, product, region, state, city, and time period, improving user-driven analysis and decision-making.
 
 Objectives:
 Analyze overall sales, profit, and quantity sold.
