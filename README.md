@@ -51,5 +51,5 @@ Understand customer purchasing patterns.
 Monitor regional sales performance.
 Support strategic decision-making through data-driven insights.
 
-Screenshot:
+Screenshot:https://github.com/R123-Data/FMCG-Data-Analytics/blob/main/Power%20BI%202.JPG
 
