@@ -43,7 +43,7 @@ Digital payment methods accounted for a major share of customer purchases.
 Sales representatives were ranked based on profit contribution.
 Profit trends help identify high-performing sales personnel and business owners.
 
-Business Impact
+Business Impact:
 This dashboard enables FMCG businesses to:
 Track revenue and profitability efficiently.
 Identify top-performing products and categories.
