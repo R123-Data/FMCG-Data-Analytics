@@ -53,5 +53,5 @@ Support strategic decision-making through data-driven insights.
 
   Screenshot: ![Dashboard Preview](https://github.com/R123-Data/FMCG-Data-Analytics/blob/main/Power%20BI%202.JPG)
   ![Dashboard Preview](https://github.com/R123-Data/FMCG-Data-Analytics/blob/main/Power%20BI%203.JPG)
-  ![Dashboard Preview](
+  ![Dashboard Preview](https://github.com/R123-Data/FMCG-Data-Analytics/blob/main/Power%20BI%204.JPG)
 
